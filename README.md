@@ -6,7 +6,7 @@
 Create React App with the template
 
 ```shell
-yarn create react-app --template cra-template-rb my-app
+git clone https://github.com/Zombie-01/zombie-boilerplate.git
 ```
 
 Start and check our example app, if you want
